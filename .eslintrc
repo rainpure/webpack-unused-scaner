@@ -1,0 +1,16 @@
+{
+  "extends": ["airbnb-base"],
+  "parserOptions": {
+    "ecmaVersion": 9
+  },
+  "env": {
+    "jest": true,
+    "node": true
+  },
+  "rules": {
+    "no-underscore-dangle": 0,
+    "no-use-before-define": ["error", { "functions": false, "classes": true, "variables": true }],
+    "max-len": 0,
+    "import/no-unresolved": 0
+  }
+}

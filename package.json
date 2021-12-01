@@ -1,0 +1,55 @@
+{
+  "name": "webpack-unused-scaner",
+  "version": "1.0.2",
+  "description": "A webpack plugin to find unused modules/source files",
+  "main": "index.js",
+  "repository": "https://github.com/rainpure/webpack-unused-scaner.git",
+  "author": "MatthieuLemoine",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "prettify": "prettier-eslint --write \"**/*.js*\" --list-different",
+    "pretty-check": "prettier-eslint \"**/*.js*\" --list-different",
+    "check-version": "node scripts/check-version.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "husky": "^1.1.1",
+    "jest": "^23.6.0",
+    "lint-staged": "^7.3.0",
+    "prettier": "^1.14.3",
+    "prettier-eslint-cli": "^4.7.1"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "deglob": "^3.1.0",
+    "ora": "^3.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "linters": {
+      "*.js": [
+        "prettier-eslint --write --config .prettierrc",
+        "eslint --fix",
+        "git add"
+      ],
+      "*.json": [
+        "prettier-eslint --write --config .prettierrc",
+        "git add"
+      ]
+    }
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "<rootDir>/examples/"
+    ]
+  }
+}

@@ -1,0 +1,2290 @@
+{
+	"_plugins": {
+		"child-compiler": [
+			null
+		],
+		"normal-module-loader": [
+			null,
+			null
+		],
+		"optimize-chunks-basic": [
+			null,
+			null,
+			null,
+			null
+		],
+		"optimize-extracted-chunks-basic": [
+			null,
+			null,
+			null
+		],
+		"optimize-chunk-ids": [
+			null
+		],
+		"optimize-module-order": [
+			null
+		],
+		"optimize-chunk-order": [
+			null
+		],
+		"finish-modules": [
+			null
+		],
+		"optimize-modules-advanced": [
+			null
+		],
+		"record-modules": [
+			null
+		],
+		"revive-modules": [
+			null
+		],
+		"record-chunks": [
+			null
+		],
+		"revive-chunks": [
+			null
+		],
+		"seal": [
+			null
+		]
+	},
+	"compiler": {
+		"_plugins": {
+			"before-run": [
+				null
+			],
+			"emit": [
+				null
+			],
+			"this-compilation": [
+				null,
+				null
+			],
+			"compilation": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null
+			],
+			"compile": [
+				null
+			],
+			"entry-option": [
+				null
+			],
+			"make": [
+				null
+			],
+			"after-resolvers": [
+				null
+			],
+			"after-emit": [
+				null
+			],
+			"watch-run": [
+				null
+			],
+			"run": [
+				null
+			],
+			"after-compile": [
+				null
+			]
+		},
+		"outputPath": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/dist",
+		"outputFileSystem": {},
+		"inputFileSystem": {
+			"fileSystem": {},
+			"_statStorage": {
+				"duration": 60000,
+				"running": {},
+				"data": {},
+				"levels": [
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
+				"count": 12,
+				"interval": {
+					"_idleTimeout": 530,
+					"_idlePrev": {
+						"_idleNext": "~compiler~inputFileSystem~_statStorage~interval",
+						"_idlePrev": {
+							"_idleTimeout": 530,
+							"_idlePrev": {
+								"_idleTimeout": 530,
+								"_idlePrev": {
+									"_idleTimeout": 530,
+									"_idlePrev": "~compiler~inputFileSystem~_statStorage~interval",
+									"_idleNext": "~compiler~inputFileSystem~_statStorage~interval~_idlePrev~_idlePrev~_idlePrev",
+									"_idleStart": 320,
+									"_repeat": 530,
+									"_destroyed": false
+								},
+								"_idleNext": "~compiler~inputFileSystem~_statStorage~interval~_idlePrev~_idlePrev",
+								"_idleStart": 316,
+								"_repeat": 530,
+								"_destroyed": false
+							},
+							"_idleNext": "~compiler~inputFileSystem~_statStorage~interval~_idlePrev",
+							"_idleStart": 316,
+							"_repeat": 530,
+							"_destroyed": false
+						},
+						"expiry": 846,
+						"id": -9007199254740991,
+						"msecs": 530,
+						"priorityQueuePosition": 1
+					},
+					"_idleNext": "~compiler~inputFileSystem~_statStorage~interval~_idlePrev~_idlePrev~_idlePrev~_idlePrev",
+					"_idleStart": 323,
+					"_repeat": 530,
+					"_destroyed": false
+				},
+				"needTickCheck": false,
+				"nextTick": null,
+				"passive": false
+			},
+			"_readdirStorage": {
+				"duration": 60000,
+				"running": {},
+				"data": {},
+				"levels": [
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
+				"count": 0,
+				"interval": null,
+				"needTickCheck": false,
+				"nextTick": null,
+				"passive": true
+			},
+			"_readFileStorage": {
+				"duration": 60000,
+				"running": {},
+				"data": {},
+				"levels": [
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
+				"count": 16,
+				"interval": "~compiler~inputFileSystem~_statStorage~interval~_idlePrev~_idlePrev",
+				"needTickCheck": false,
+				"nextTick": null,
+				"passive": false
+			},
+			"_readJsonStorage": {
+				"duration": 60000,
+				"running": {},
+				"data": {},
+				"levels": [
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
+				"count": 11,
+				"interval": "~compiler~inputFileSystem~_statStorage~interval~_idlePrev~_idlePrev~_idlePrev",
+				"needTickCheck": false,
+				"nextTick": null,
+				"passive": false
+			},
+			"_readlinkStorage": {
+				"duration": 60000,
+				"running": {},
+				"data": {},
+				"levels": [
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{},
+					{}
+				],
+				"count": 24,
+				"interval": "~compiler~inputFileSystem~_statStorage~interval~_idlePrev~_idlePrev~_idlePrev~_idlePrev",
+				"needTickCheck": false,
+				"nextTick": null,
+				"passive": false
+			}
+		},
+		"records": {
+			"modules": {
+				"byIdentifier": {
+					"index.js": 0,
+					"simple-module/routes/index.js": 1,
+					"simple-module/utils/date.js": 2,
+					"awesome-module/actions/teleport.js": 3,
+					"awesome-module/actions/destroy.js": 4
+				},
+				"usedIds": {
+					"0": 0,
+					"1": 1,
+					"2": 2,
+					"3": 3,
+					"4": 4
+				}
+			},
+			"chunks": {
+				"byName": {
+					"main": 0
+				},
+				"byBlocks": {},
+				"usedIds": {
+					"0": 0
+				}
+			}
+		},
+		"fileTimestamps": {},
+		"contextTimestamps": {},
+		"resolvers": {
+			"normal": {
+				"_plugins": {
+					"resolve": [
+						null
+					],
+					"new-resolve": [
+						null
+					],
+					"parsed-resolve": [
+						null
+					],
+					"after-parsed-resolve": [
+						null
+					],
+					"described-resolve": [
+						null,
+						null,
+						null,
+						null
+					],
+					"after-described-resolve": [
+						null,
+						null
+					],
+					"raw-module": [
+						null
+					],
+					"module": [
+						null
+					],
+					"relative": [
+						null
+					],
+					"after-relative": [
+						null
+					],
+					"described-relative": [
+						null,
+						null
+					],
+					"directory": [
+						null
+					],
+					"existing-directory": [
+						null,
+						null,
+						null,
+						null
+					],
+					"undescribed-raw-file": [
+						null
+					],
+					"after-undescribed-raw-file": [
+						null
+					],
+					"raw-file": [
+						null,
+						null,
+						null,
+						null
+					],
+					"file": [
+						null,
+						null,
+						null
+					],
+					"existing-file": [
+						null
+					],
+					"resolved": [
+						null
+					]
+				},
+				"fileSystem": "~compiler~inputFileSystem"
+			},
+			"loader": {
+				"_plugins": {
+					"resolve": [
+						null
+					],
+					"new-resolve": [
+						null
+					],
+					"parsed-resolve": [
+						null
+					],
+					"after-parsed-resolve": [
+						null
+					],
+					"described-resolve": [
+						null
+					],
+					"after-described-resolve": [
+						null,
+						null
+					],
+					"raw-module": [
+						null
+					],
+					"module": [
+						null
+					],
+					"relative": [
+						null
+					],
+					"after-relative": [
+						null
+					],
+					"described-relative": [
+						null,
+						null
+					],
+					"directory": [
+						null
+					],
+					"existing-directory": [
+						null,
+						null,
+						null,
+						null
+					],
+					"undescribed-raw-file": [
+						null
+					],
+					"after-undescribed-raw-file": [
+						null
+					],
+					"raw-file": [
+						null,
+						null,
+						null,
+						null
+					],
+					"file": [
+						null,
+						null,
+						null
+					],
+					"existing-file": [
+						null
+					],
+					"resolved": [
+						null
+					]
+				},
+				"fileSystem": "~compiler~inputFileSystem"
+			},
+			"context": {
+				"_plugins": {
+					"resolve": [
+						null
+					],
+					"new-resolve": [
+						null
+					],
+					"parsed-resolve": [
+						null
+					],
+					"after-parsed-resolve": [
+						null
+					],
+					"described-resolve": [
+						null
+					],
+					"after-described-resolve": [
+						null,
+						null
+					],
+					"raw-module": [
+						null
+					],
+					"module": [
+						null
+					],
+					"relative": [
+						null
+					],
+					"after-relative": [
+						null
+					],
+					"described-relative": [
+						null,
+						null
+					],
+					"directory": [
+						null
+					],
+					"existing-directory": [
+						null
+					],
+					"resolved": [
+						null
+					]
+				},
+				"fileSystem": "~compiler~inputFileSystem"
+			}
+		},
+		"parser": {},
+		"options": {
+			"target": "node",
+			"entry": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js",
+			"output": {
+				"path": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/dist",
+				"filename": "bundle.js",
+				"chunkFilename": "[id].bundle.js",
+				"library": "",
+				"hotUpdateFunction": "webpackHotUpdate",
+				"jsonpFunction": "webpackJsonp",
+				"libraryTarget": "var",
+				"sourceMapFilename": "[file].map[query]",
+				"hotUpdateChunkFilename": "[id].[hash].hot-update.js",
+				"hotUpdateMainFilename": "[hash].hot-update.json",
+				"crossOriginLoading": false,
+				"chunkLoadTimeout": 120000,
+				"hashFunction": "md5",
+				"hashDigest": "hex",
+				"hashDigestLength": 20,
+				"devtoolLineToLine": false,
+				"strictModuleExceptionHandling": false
+			},
+			"plugins": [
+				{
+					"sourceDirectories": [
+						"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module",
+						"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module"
+					],
+					"exclude": [
+						"**/*.test.js"
+					],
+					"root": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples",
+					"failOnUnused": false,
+					"useGitIgnore": true
+				}
+			],
+			"context": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples",
+			"watchOptions": {},
+			"devtool": false,
+			"cache": true,
+			"module": {
+				"unknownContextRequest": ".",
+				"unknownContextRegExp": false,
+				"unknownContextRecursive": true,
+				"unknownContextCritical": true,
+				"exprContextRequest": ".",
+				"exprContextRegExp": false,
+				"exprContextRecursive": true,
+				"exprContextCritical": true,
+				"wrappedContextRegExp": {},
+				"wrappedContextRecursive": true,
+				"wrappedContextCritical": false,
+				"strictExportPresence": false,
+				"strictThisContextOnImports": false,
+				"unsafeCache": true
+			},
+			"node": {
+				"console": false,
+				"process": true,
+				"global": true,
+				"Buffer": true,
+				"setImmediate": true,
+				"__filename": "mock",
+				"__dirname": "mock"
+			},
+			"performance": {
+				"maxAssetSize": 250000,
+				"maxEntrypointSize": 250000,
+				"hints": false
+			},
+			"resolve": {
+				"unsafeCache": true,
+				"modules": [
+					"node_modules"
+				],
+				"extensions": [
+					".js",
+					".json"
+				],
+				"mainFiles": [
+					"index"
+				],
+				"aliasFields": [],
+				"mainFields": [
+					"module",
+					"main"
+				],
+				"cacheWithContext": false
+			},
+			"resolveLoader": {
+				"unsafeCache": true,
+				"mainFields": [
+					"loader",
+					"main"
+				],
+				"extensions": [
+					".js",
+					".json"
+				],
+				"mainFiles": [
+					"index"
+				],
+				"cacheWithContext": false
+			}
+		},
+		"context": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples",
+		"watchFileSystem": {
+			"inputFileSystem": "~compiler~inputFileSystem",
+			"watcherOptions": {
+				"aggregateTimeout": 200
+			},
+			"watcher": {
+				"_events": {},
+				"_eventsCount": 0,
+				"options": "~compiler~watchFileSystem~watcherOptions",
+				"watcherOptions": {},
+				"fileWatchers": [],
+				"dirWatchers": [],
+				"mtimes": {},
+				"paused": false,
+				"aggregatedChanges": [],
+				"aggregatedRemovals": [],
+				"aggregateTimeout": 0
+			}
+		},
+		"_lastCompilationFileDependencies": [
+			"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js",
+			"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js",
+			"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js",
+			"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js",
+			"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js"
+		],
+		"_lastCompilationContextDependencies": []
+	},
+	"resolvers": "~compiler~resolvers",
+	"inputFileSystem": "~compiler~inputFileSystem",
+	"options": "~compiler~options",
+	"outputOptions": "~compiler~options~output",
+	"performance": "~compiler~options~performance",
+	"mainTemplate": {
+		"_plugins": {
+			"startup": [
+				null
+			],
+			"render": [
+				null
+			],
+			"local-vars": [
+				null,
+				null
+			],
+			"require": [
+				null
+			],
+			"module-obj": [
+				null
+			],
+			"require-extensions": [
+				null,
+				null
+			],
+			"require-ensure": [
+				null
+			],
+			"hot-bootstrap": [
+				null
+			],
+			"hash": [
+				null
+			],
+			"asset-path": [
+				null
+			],
+			"global-hash": [
+				null
+			],
+			"hash-for-chunk": [
+				null
+			]
+		},
+		"outputOptions": "~compiler~options~output",
+		"requireFn": "__webpack_require__"
+	},
+	"chunkTemplate": {
+		"_plugins": {
+			"render": [
+				null
+			],
+			"hash": [
+				null
+			]
+		},
+		"outputOptions": "~compiler~options~output"
+	},
+	"hotUpdateChunkTemplate": {
+		"_plugins": {
+			"render": [
+				null
+			],
+			"hash": [
+				null
+			]
+		},
+		"outputOptions": "~compiler~options~output"
+	},
+	"moduleTemplate": {
+		"_plugins": {
+			"render": [
+				null
+			],
+			"package": [
+				null
+			],
+			"hash": [
+				null
+			]
+		},
+		"outputOptions": "~compiler~options~output",
+		"requestShortener": {
+			"currentDirectoryRegExp": {},
+			"parentDirectoryRegExp": {},
+			"buildinsAsModule": true,
+			"buildinsRegExp": {}
+		}
+	},
+	"semaphore": {
+		"available": 100,
+		"waiters": []
+	},
+	"entries": [
+		{
+			"dependencies": [
+				{
+					"module": {
+						"dependencies": [],
+						"blocks": [],
+						"variables": [],
+						"context": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes",
+						"reasons": [
+							{
+								"module": "~entries~0",
+								"dependency": "~entries~0~dependencies~0",
+								"_chunks": null
+							}
+						],
+						"debugId": 1004,
+						"id": 1,
+						"portableId": "simple-module/routes/index.js",
+						"index": 1,
+						"index2": 0,
+						"depth": 1,
+						"used": true,
+						"usedExports": true,
+						"providedExports": true,
+						"_chunks": {},
+						"warnings": [],
+						"dependenciesWarnings": [],
+						"errors": [],
+						"dependenciesErrors": [],
+						"strict": false,
+						"meta": {},
+						"optimizationBailout": [],
+						"request": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js",
+						"userRequest": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js",
+						"rawRequest": "./simple-module/routes",
+						"parser": {
+							"_plugins": {
+								"evaluate Literal": [
+									null
+								],
+								"evaluate LogicalExpression": [
+									null
+								],
+								"evaluate BinaryExpression": [
+									null
+								],
+								"evaluate UnaryExpression": [
+									null
+								],
+								"evaluate typeof undefined": [
+									null
+								],
+								"evaluate Identifier": [
+									null
+								],
+								"evaluate ThisExpression": [
+									null
+								],
+								"evaluate MemberExpression": [
+									null
+								],
+								"evaluate CallExpression": [
+									null
+								],
+								"evaluate CallExpression .replace": [
+									null
+								],
+								"evaluate CallExpression .substr": [
+									null
+								],
+								"evaluate TemplateLiteral": [
+									null,
+									null
+								],
+								"evaluate TaggedTemplateExpression": [
+									null,
+									null
+								],
+								"evaluate CallExpression .substring": [
+									null
+								],
+								"evaluate CallExpression .split": [
+									null
+								],
+								"evaluate ConditionalExpression": [
+									null
+								],
+								"evaluate ArrayExpression": [
+									null
+								],
+								"call require": [
+									null,
+									null,
+									null
+								],
+								"program": [
+									null,
+									null
+								],
+								"evaluate typeof define": [
+									null,
+									null
+								],
+								"typeof define": [
+									null,
+									null
+								],
+								"evaluate define": [
+									null
+								],
+								"expression define": [
+									null,
+									null
+								],
+								"call define": [
+									null,
+									null
+								],
+								"evaluate typeof exports": [
+									null,
+									null
+								],
+								"typeof exports": [
+									null
+								],
+								"evaluate exports": [
+									null
+								],
+								"expression exports": [
+									null
+								],
+								"call exports": [
+									null
+								],
+								"import": [
+									null
+								],
+								"import specifier": [
+									null
+								],
+								"expression imported var": [
+									null
+								],
+								"expression imported var.*": [
+									null
+								],
+								"call imported var": [
+									null
+								],
+								"hot accept callback": [
+									null
+								],
+								"hot accept without callback": [
+									null
+								],
+								"export": [
+									null
+								],
+								"export import": [
+									null
+								],
+								"export expression": [
+									null
+								],
+								"export declaration": [
+									null
+								],
+								"export specifier": [
+									null
+								],
+								"export import specifier": [
+									null
+								],
+								"call require:amd:array": [
+									null
+								],
+								"call require:amd:item": [
+									null
+								],
+								"call require:amd:context": [
+									null
+								],
+								"call define:amd:array": [
+									null
+								],
+								"call define:amd:item": [
+									null
+								],
+								"call define:amd:context": [
+									null
+								],
+								"expression require.amd": [
+									null
+								],
+								"expression define.amd": [
+									null
+								],
+								"expression __webpack_amd_options__": [
+									null
+								],
+								"evaluate typeof define.amd": [
+									null
+								],
+								"evaluate typeof require.amd": [
+									null
+								],
+								"evaluate Identifier define.amd": [
+									null
+								],
+								"evaluate Identifier require.amd": [
+									null
+								],
+								"can-rename define": [
+									null
+								],
+								"rename define": [
+									null
+								],
+								"typeof require": [
+									null,
+									null
+								],
+								"evaluate typeof require": [
+									null,
+									null
+								],
+								"evaluate Identifier require": [
+									null
+								],
+								"typeof require.resolve": [
+									null
+								],
+								"evaluate typeof require.resolve": [
+									null
+								],
+								"evaluate Identifier require.resolve": [
+									null
+								],
+								"typeof require.resolveWeak": [
+									null
+								],
+								"evaluate typeof require.resolveWeak": [
+									null
+								],
+								"evaluate Identifier require.resolveWeak": [
+									null
+								],
+								"evaluate typeof module": [
+									null
+								],
+								"assign require": [
+									null
+								],
+								"can-rename require": [
+									null
+								],
+								"rename require": [
+									null
+								],
+								"typeof module": [
+									null
+								],
+								"expression require.cache": [
+									null
+								],
+								"expression require": [
+									null
+								],
+								"call require:commonjs:item": [
+									null
+								],
+								"call require:commonjs:context": [
+									null
+								],
+								"call require.resolve": [
+									null
+								],
+								"call require.resolveWeak": [
+									null
+								],
+								"call require.resolve(Weak)": [
+									null
+								],
+								"call require.resolve(Weak):item": [
+									null
+								],
+								"call require.resolve(Weak):context": [
+									null
+								],
+								"expression __filename": [
+									null
+								],
+								"evaluate Identifier __filename": [
+									null
+								],
+								"expression __dirname": [
+									null
+								],
+								"evaluate Identifier __dirname": [
+									null
+								],
+								"expression require.main": [
+									null
+								],
+								"expression require.extensions": [
+									null
+								],
+								"expression module.loaded": [
+									null
+								],
+								"expression module.id": [
+									null
+								],
+								"expression module.exports": [
+									null
+								],
+								"evaluate Identifier module.hot": [
+									null
+								],
+								"expression module": [
+									null
+								],
+								"call require.config": [
+									null
+								],
+								"call requirejs.config": [
+									null
+								],
+								"expression require.version": [
+									null
+								],
+								"expression requirejs.onError": [
+									null
+								],
+								"expression __webpack_require__": [
+									null
+								],
+								"evaluate typeof __webpack_require__": [
+									null
+								],
+								"expression __webpack_public_path__": [
+									null
+								],
+								"evaluate typeof __webpack_public_path__": [
+									null
+								],
+								"expression __webpack_modules__": [
+									null
+								],
+								"evaluate typeof __webpack_modules__": [
+									null
+								],
+								"expression __webpack_chunk_load__": [
+									null
+								],
+								"evaluate typeof __webpack_chunk_load__": [
+									null
+								],
+								"expression __non_webpack_require__": [
+									null
+								],
+								"evaluate typeof __non_webpack_require__": [
+									null
+								],
+								"expression __webpack_nonce__": [
+									null
+								],
+								"evaluate typeof __webpack_nonce__": [
+									null
+								],
+								"expression require.onError": [
+									null
+								],
+								"evaluate typeof require.onError": [
+									null
+								],
+								"statement if": [
+									null
+								],
+								"expression ?:": [
+									null
+								],
+								"evaluate Identifier __resourceQuery": [
+									null
+								],
+								"expression __resourceQuery": [
+									null
+								],
+								"call require.include": [
+									null
+								],
+								"evaluate typeof require.include": [
+									null
+								],
+								"typeof require.include": [
+									null
+								],
+								"call require.ensure": [
+									null
+								],
+								"evaluate typeof require.ensure": [
+									null
+								],
+								"typeof require.ensure": [
+									null
+								],
+								"call require.context": [
+									null
+								],
+								"call System.import": [
+									null
+								],
+								"import-call": [
+									null
+								],
+								"typeof System.import": [
+									null
+								],
+								"evaluate typeof System.import": [
+									null
+								],
+								"typeof System": [
+									null
+								],
+								"evaluate typeof System": [
+									null
+								],
+								"evaluate typeof System.set": [
+									null
+								],
+								"expression System.set": [
+									null
+								],
+								"evaluate typeof System.get": [
+									null
+								],
+								"expression System.get": [
+									null
+								],
+								"evaluate typeof System.register": [
+									null
+								],
+								"expression System.register": [
+									null
+								],
+								"expression System": [
+									null
+								]
+							}
+						},
+						"resource": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js",
+						"loaders": [],
+						"fileDependencies": [
+							"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js"
+						],
+						"contextDependencies": [],
+						"error": null,
+						"_source": {
+							"_value": "",
+							"_name": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js"
+						},
+						"assets": {},
+						"built": true,
+						"_cachedSource": {
+							"source": {
+								"_source": "~entries~0~dependencies~0~module~_source",
+								"replacements": []
+							},
+							"hash": "e1de02edb1f3ffedd92ba93270b529a9"
+						},
+						"issuer": "~entries~0",
+						"optional": false,
+						"buildTimestamp": 1546954695593,
+						"cacheable": true
+					},
+					"request": "./simple-module/routes",
+					"userRequest": "./simple-module/routes",
+					"range": [
+						8,
+						32
+					],
+					"loc": {
+						"start": {
+							"line": 1,
+							"column": 0
+						},
+						"end": {
+							"line": 1,
+							"column": 33
+						}
+					},
+					"optional": false,
+					"__NormalModuleFactoryCache": "~entries~0~dependencies~0~module"
+				},
+				{
+					"module": null,
+					"range": [
+						0,
+						7
+					],
+					"loc": "~entries~0~dependencies~0~loc"
+				},
+				{
+					"module": {
+						"dependencies": [],
+						"blocks": [],
+						"variables": [],
+						"context": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils",
+						"reasons": [
+							{
+								"module": "~entries~0",
+								"dependency": "~entries~0~dependencies~2",
+								"_chunks": null
+							}
+						],
+						"debugId": 1001,
+						"id": 2,
+						"portableId": "simple-module/utils/date.js",
+						"index": 2,
+						"index2": 1,
+						"depth": 1,
+						"used": true,
+						"usedExports": true,
+						"providedExports": true,
+						"_chunks": {},
+						"warnings": [],
+						"dependenciesWarnings": [],
+						"errors": [],
+						"dependenciesErrors": [],
+						"strict": false,
+						"meta": {},
+						"optimizationBailout": [],
+						"request": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js",
+						"userRequest": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js",
+						"rawRequest": "./simple-module/utils/date",
+						"parser": "~entries~0~dependencies~0~module~parser",
+						"resource": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js",
+						"loaders": [],
+						"fileDependencies": [
+							"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js"
+						],
+						"contextDependencies": [],
+						"error": null,
+						"_source": {
+							"_value": "",
+							"_name": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js"
+						},
+						"assets": {},
+						"built": true,
+						"_cachedSource": {
+							"source": {
+								"_source": "~entries~0~dependencies~2~module~_source",
+								"replacements": []
+							},
+							"hash": "19c0cecc052f20174c57bbf6a570bb20"
+						},
+						"issuer": "~entries~0",
+						"optional": false,
+						"buildTimestamp": 1546954695591,
+						"cacheable": true
+					},
+					"request": "./simple-module/utils/date",
+					"userRequest": "./simple-module/utils/date",
+					"range": [
+						43,
+						71
+					],
+					"loc": {
+						"start": {
+							"line": 2,
+							"column": 0
+						},
+						"end": {
+							"line": 2,
+							"column": 37
+						}
+					},
+					"optional": false,
+					"__NormalModuleFactoryCache": "~entries~0~dependencies~2~module"
+				},
+				{
+					"module": null,
+					"range": [
+						35,
+						42
+					],
+					"loc": "~entries~0~dependencies~2~loc"
+				},
+				{
+					"module": {
+						"dependencies": [],
+						"blocks": [],
+						"variables": [],
+						"context": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions",
+						"reasons": [
+							{
+								"module": "~entries~0",
+								"dependency": "~entries~0~dependencies~4",
+								"_chunks": null
+							}
+						],
+						"debugId": 1003,
+						"id": 3,
+						"portableId": "awesome-module/actions/teleport.js",
+						"index": 3,
+						"index2": 2,
+						"depth": 1,
+						"used": true,
+						"usedExports": true,
+						"providedExports": true,
+						"_chunks": {},
+						"warnings": [],
+						"dependenciesWarnings": [],
+						"errors": [],
+						"dependenciesErrors": [],
+						"strict": false,
+						"meta": {},
+						"optimizationBailout": [],
+						"request": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js",
+						"userRequest": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js",
+						"rawRequest": "./awesome-module/actions/teleport",
+						"parser": "~entries~0~dependencies~0~module~parser",
+						"resource": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js",
+						"loaders": [],
+						"fileDependencies": [
+							"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js"
+						],
+						"contextDependencies": [],
+						"error": null,
+						"_source": {
+							"_value": "",
+							"_name": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js"
+						},
+						"assets": {},
+						"built": true,
+						"_cachedSource": {
+							"source": {
+								"_source": "~entries~0~dependencies~4~module~_source",
+								"replacements": []
+							},
+							"hash": "030f047e612b9ac81b37ec740e1c058f"
+						},
+						"issuer": "~entries~0",
+						"optional": false,
+						"buildTimestamp": 1546954695591,
+						"cacheable": true
+					},
+					"request": "./awesome-module/actions/teleport",
+					"userRequest": "./awesome-module/actions/teleport",
+					"range": [
+						82,
+						117
+					],
+					"loc": {
+						"start": {
+							"line": 3,
+							"column": 0
+						},
+						"end": {
+							"line": 3,
+							"column": 44
+						}
+					},
+					"optional": false,
+					"__NormalModuleFactoryCache": "~entries~0~dependencies~4~module"
+				},
+				{
+					"module": null,
+					"range": [
+						74,
+						81
+					],
+					"loc": "~entries~0~dependencies~4~loc"
+				},
+				{
+					"module": {
+						"dependencies": [],
+						"blocks": [],
+						"variables": [],
+						"context": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions",
+						"reasons": [
+							{
+								"module": "~entries~0",
+								"dependency": "~entries~0~dependencies~6",
+								"_chunks": null
+							}
+						],
+						"debugId": 1002,
+						"id": 4,
+						"portableId": "awesome-module/actions/destroy.js",
+						"index": 4,
+						"index2": 3,
+						"depth": 1,
+						"used": true,
+						"usedExports": true,
+						"providedExports": true,
+						"_chunks": {},
+						"warnings": [],
+						"dependenciesWarnings": [],
+						"errors": [],
+						"dependenciesErrors": [],
+						"strict": false,
+						"meta": {},
+						"optimizationBailout": [],
+						"request": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js",
+						"userRequest": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js",
+						"rawRequest": "./awesome-module/actions/destroy",
+						"parser": "~entries~0~dependencies~0~module~parser",
+						"resource": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js",
+						"loaders": [],
+						"fileDependencies": [
+							"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js"
+						],
+						"contextDependencies": [],
+						"error": null,
+						"_source": {
+							"_value": "",
+							"_name": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js"
+						},
+						"assets": {},
+						"built": true,
+						"_cachedSource": {
+							"source": {
+								"_source": "~entries~0~dependencies~6~module~_source",
+								"replacements": []
+							},
+							"hash": "84de04aae56fcb917170d08c864a9dc7"
+						},
+						"issuer": "~entries~0",
+						"optional": false,
+						"buildTimestamp": 1546954695591,
+						"cacheable": true
+					},
+					"request": "./awesome-module/actions/destroy",
+					"userRequest": "./awesome-module/actions/destroy",
+					"range": [
+						128,
+						162
+					],
+					"loc": {
+						"start": {
+							"line": 4,
+							"column": 0
+						},
+						"end": {
+							"line": 4,
+							"column": 43
+						}
+					},
+					"optional": false,
+					"__NormalModuleFactoryCache": "~entries~0~dependencies~6~module"
+				},
+				{
+					"module": null,
+					"range": [
+						120,
+						127
+					],
+					"loc": "~entries~0~dependencies~6~loc"
+				}
+			],
+			"blocks": [],
+			"variables": [],
+			"context": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples",
+			"reasons": [],
+			"debugId": 1000,
+			"id": 0,
+			"portableId": "index.js",
+			"index": 0,
+			"index2": 4,
+			"depth": 0,
+			"used": true,
+			"usedExports": true,
+			"providedExports": true,
+			"_chunks": {},
+			"warnings": [],
+			"dependenciesWarnings": [],
+			"errors": [],
+			"dependenciesErrors": [],
+			"strict": false,
+			"meta": {},
+			"optimizationBailout": [],
+			"request": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js",
+			"userRequest": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js",
+			"rawRequest": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js",
+			"parser": "~entries~0~dependencies~0~module~parser",
+			"resource": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js",
+			"loaders": [],
+			"fileDependencies": [
+				"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js"
+			],
+			"contextDependencies": [],
+			"error": null,
+			"_source": {
+				"_value": "require('./simple-module/routes');\nrequire('./simple-module/utils/date');\nrequire('./awesome-module/actions/teleport');\nrequire('./awesome-module/actions/destroy');\n",
+				"_name": "/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js"
+			},
+			"assets": {},
+			"built": true,
+			"_cachedSource": {
+				"source": {
+					"_source": "~entries~0~_source",
+					"replacements": [
+						[
+							8,
+							31,
+							"1",
+							0
+						],
+						[
+							0,
+							6,
+							"__webpack_require__",
+							1
+						],
+						[
+							43,
+							70,
+							"2",
+							2
+						],
+						[
+							35,
+							41,
+							"__webpack_require__",
+							3
+						],
+						[
+							82,
+							116,
+							"3",
+							4
+						],
+						[
+							74,
+							80,
+							"__webpack_require__",
+							5
+						],
+						[
+							128,
+							161,
+							"4",
+							6
+						],
+						[
+							120,
+							126,
+							"__webpack_require__",
+							7
+						]
+					]
+				},
+				"hash": "ff5047c517b18a366859b098ce635b8b"
+			},
+			"issuer": null,
+			"buildTimestamp": 1546954695581,
+			"cacheable": true
+		}
+	],
+	"preparedChunks": [
+		{
+			"name": "main",
+			"module": "~entries~0"
+		}
+	],
+	"entrypoints": {
+		"main": {
+			"name": "main",
+			"chunks": [
+				{
+					"id": 0,
+					"ids": [
+						0
+					],
+					"debugId": 1000,
+					"name": "main",
+					"_modules": {},
+					"entrypoints": [
+						"~entrypoints~main"
+					],
+					"chunks": [],
+					"parents": [],
+					"blocks": [],
+					"origins": [
+						{
+							"module": "~entries~0",
+							"name": "main"
+						}
+					],
+					"files": [
+						"bundle.js"
+					],
+					"rendered": true,
+					"entryModule": "~entries~0",
+					"hash": "edb9b3957e47c11aee2497b9d101921f",
+					"renderedHash": "edb9b3957e47c11aee24"
+				}
+			]
+		}
+	},
+	"chunks": [
+		"~entrypoints~main~chunks~0"
+	],
+	"namedChunks": {
+		"main": "~entrypoints~main~chunks~0"
+	},
+	"modules": [
+		"~entries~0",
+		"~entries~0~dependencies~0~module",
+		"~entries~0~dependencies~2~module",
+		"~entries~0~dependencies~4~module",
+		"~entries~0~dependencies~6~module"
+	],
+	"_modules": {
+		"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js": "~entries~0",
+		"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js": "~entries~0~dependencies~2~module",
+		"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js": "~entries~0~dependencies~6~module",
+		"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js": "~entries~0~dependencies~4~module",
+		"/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js": "~entries~0~dependencies~0~module"
+	},
+	"cache": {
+		"m/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/index.js": "~entries~0",
+		"m/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/utils/date.js": "~entries~0~dependencies~2~module",
+		"m/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/destroy.js": "~entries~0~dependencies~6~module",
+		"m/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/awesome-module/actions/teleport.js": "~entries~0~dependencies~4~module",
+		"m/Users/hyc/Documents/github/deleter/unused-webpack-plugin/examples/simple-module/routes/index.js": "~entries~0~dependencies~0~module",
+		"c0": {
+			"hash": "edb9b3957e47c11aee2497b9d101921f",
+			"source": {
+				"_source": {
+					"children": [
+						{
+							"children": [
+								"/******/ (function(modules) { // webpackBootstrap\n",
+								{
+									"_source": {
+										"_value": " \t// The module cache\n \tvar installedModules = {};\n\n \t// The require function\n \tfunction __webpack_require__(moduleId) {\n\n \t\t// Check if module is in cache\n \t\tif(installedModules[moduleId]) {\n \t\t\treturn installedModules[moduleId].exports;\n \t\t}\n \t\t// Create a new module (and put it into the cache)\n \t\tvar module = installedModules[moduleId] = {\n \t\t\ti: moduleId,\n \t\t\tl: false,\n \t\t\texports: {}\n \t\t};\n\n \t\t// Execute the module function\n \t\tmodules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n\n \t\t// Flag the module as loaded\n \t\tmodule.l = true;\n\n \t\t// Return the exports of the module\n \t\treturn module.exports;\n \t}\n\n\n \t// expose the modules object (__webpack_modules__)\n \t__webpack_require__.m = modules;\n\n \t// expose the module cache\n \t__webpack_require__.c = installedModules;\n\n \t// define getter function for harmony exports\n \t__webpack_require__.d = function(exports, name, getter) {\n \t\tif(!__webpack_require__.o(exports, name)) {\n \t\t\tObject.defineProperty(exports, name, {\n \t\t\t\tconfigurable: false,\n \t\t\t\tenumerable: true,\n \t\t\t\tget: getter\n \t\t\t});\n \t\t}\n \t};\n\n \t// getDefaultExport function for compatibility with non-harmony modules\n \t__webpack_require__.n = function(module) {\n \t\tvar getter = module && module.__esModule ?\n \t\t\tfunction getDefault() { return module['default']; } :\n \t\t\tfunction getModuleExports() { return module; };\n \t\t__webpack_require__.d(getter, 'a', getter);\n \t\treturn getter;\n \t};\n\n \t// Object.prototype.hasOwnProperty.call\n \t__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n\n \t// __webpack_public_path__\n \t__webpack_require__.p = \"\";\n\n \t// Load entry module and return exports\n \treturn __webpack_require__(__webpack_require__.s = 0);\n",
+										"_name": "webpack/bootstrap 42fce4fad6382ac28a33"
+									},
+									"_prefix": "/******/"
+								},
+								"/******/ })\n",
+								"/************************************************************************/\n",
+								"/******/ (",
+								{
+									"children": [
+										"[\n",
+										"/* 0 */",
+										"\n",
+										{
+											"children": [
+												"/***/ (function(module, exports, __webpack_require__) {\n\n",
+												{
+													"_source": "~entries~0~_cachedSource~source",
+													"_cachedMaps": {}
+												},
+												"\n\n/***/ })"
+											]
+										},
+										",\n",
+										"/* 1 */",
+										"\n",
+										{
+											"children": [
+												"/***/ (function(module, exports) {\n\n",
+												{
+													"_source": "~entries~0~dependencies~0~module~_cachedSource~source",
+													"_cachedMaps": {}
+												},
+												"\n\n/***/ })"
+											]
+										},
+										",\n",
+										"/* 2 */",
+										"\n",
+										{
+											"children": [
+												"/***/ (function(module, exports) {\n\n",
+												{
+													"_source": "~entries~0~dependencies~2~module~_cachedSource~source",
+													"_cachedMaps": {}
+												},
+												"\n\n/***/ })"
+											]
+										},
+										",\n",
+										"/* 3 */",
+										"\n",
+										{
+											"children": [
+												"/***/ (function(module, exports) {\n\n",
+												{
+													"_source": "~entries~0~dependencies~4~module~_cachedSource~source",
+													"_cachedMaps": {}
+												},
+												"\n\n/***/ })"
+											]
+										},
+										",\n",
+										"/* 4 */",
+										"\n",
+										{
+											"children": [
+												"/***/ (function(module, exports) {\n\n",
+												{
+													"_source": "~entries~0~dependencies~6~module~_cachedSource~source",
+													"_cachedMaps": {}
+												},
+												"\n\n/***/ })"
+											]
+										},
+										"\n/******/ ]"
+									]
+								},
+								")"
+							]
+						},
+						";"
+					]
+				},
+				"_cachedMaps": {}
+			}
+		}
+	},
+	"records": "~compiler~records",
+	"nextFreeModuleIndex": 5,
+	"nextFreeModuleIndex2": 5,
+	"additionalChunkAssets": [],
+	"assets": {
+		"bundle.js": "~cache~c0~source"
+	},
+	"errors": [],
+	"warnings": [],
+	"children": [],
+	"dependencyFactories": {},
+	"dependencyTemplates": {},
+	"childrenCounters": {},
+	"fileTimestamps": "~compiler~fileTimestamps",
+	"contextTimestamps": "~compiler~contextTimestamps",
+	"compilationDependencies": [],
+	"fullHash": "42fce4fad6382ac28a33643f35d56e45",
+	"hash": "42fce4fad6382ac28a33",
+	"fileDependencies": "~compiler~_lastCompilationFileDependencies",
+	"contextDependencies": "~compiler~_lastCompilationContextDependencies",
+	"missingDependencies": []
+}
